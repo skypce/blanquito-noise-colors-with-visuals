@@ -3,7 +3,6 @@
 
 A little utility thats generates white, pink and brown noise colors and apply a filter of color for the respective noise. (Only works with Nvidia Cards.)
 
-![](header.gif)
 
 ## Installation
 
@@ -15,7 +14,8 @@ Depends of Nvidia propietary drivers and SOX audio utility.
 
 ## Usage example
 
-Click in the noise that you want listen and automatically will reproduce the noise sound of your election and apply the color filter for the respective noise.
+chmod +x blanquito-noise-colors-with-visuals
+./blanquito-noise-colors-with-visuals
 ## Release History
 
 * 0.1
